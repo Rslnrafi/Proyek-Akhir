@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```
 streamlit run ./streamlit/dashboard.py
 ```
+
+![image](https://github.com/user-attachments/assets/0196afc2-4a94-4366-8ac5-1cb292d45590)
