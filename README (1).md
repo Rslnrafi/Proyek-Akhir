@@ -12,6 +12,10 @@ pip install -r requirements.txt
 streamlit run ./streamlit/dashboard.py
 ```
 
+https://proyek-akhir-tmdsrhgancuf4urzu7fyph.streamlit.app/
+```
+
+
 ![image](https://github.com/user-attachments/assets/0196afc2-4a94-4366-8ac5-1cb292d45590)
 ![image](https://github.com/user-attachments/assets/8b43a24f-a3b3-4738-97b5-5c2275a90502)
 ![image](https://github.com/user-attachments/assets/3bf4b21c-f974-4d58-89b6-cce1d0dc360f)
