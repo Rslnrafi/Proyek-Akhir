@@ -13,7 +13,6 @@ streamlit run ./streamlit/dashboard.py
 ```
 
 https://proyek-akhir-tmdsrhgancuf4urzu7fyph.streamlit.app/
-```
 
 
 ![image](https://github.com/user-attachments/assets/0196afc2-4a94-4366-8ac5-1cb292d45590)
